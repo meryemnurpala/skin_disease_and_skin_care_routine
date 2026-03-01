@@ -1,0 +1,16 @@
+CLASSIFICATION REPORT
+======================================================================
+
+                         precision    recall  f1-score   support
+
+        Aktinik Keratoz       0.17      0.81      0.28        26
+ Bazal Hücreli Karsinom       0.28      0.73      0.40        75
+         Benign Keratoz       0.32      0.43      0.36       225
+          Dermatofibrom       0.11      0.71      0.20        21
+                Melanom       0.27      0.69      0.38       434
+Melanositik Nevüs (Ben)       1.00      0.03      0.06      1186
+        Vasküler Lezyon       0.28      0.72      0.40        36
+
+               accuracy                           0.27      2003
+              macro avg       0.35      0.59      0.30      2003
+           weighted avg       0.70      0.27      0.19      2003
