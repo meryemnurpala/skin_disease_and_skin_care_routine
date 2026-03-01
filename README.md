@@ -193,7 +193,7 @@ Katkılarınızı bekliyoruz! Lütfen önce bir issue açın veya pull request g
 
 ## 📧 İletişim
 
-Sorularınız için issue açabilirsiniz.
+Sorularınız için meryemnur6969@gmail.com
 
 ---
 
